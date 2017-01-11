@@ -1,0 +1,2 @@
+# Parallel-Programing
+This was a experimental class assignment focusing on parallel programming,and calculation of speed ups from serial to parallel. This file contains parallel version of quick sort, merge sort and bubble sort. Run the "DriverSort.java" file found on the "src" folder, you can also read the "Original_Istructions.pdf" file to read more about the assignment and read "report.pdf" file for the experiment results.  
